@@ -1,1 +1,0 @@
-# webboilerplate template
